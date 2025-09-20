@@ -38,3 +38,5 @@ Si este portafolio te inspira o te interesa colaborar, puedes encontrarme en:
 ---
 
 **Gracias por visitar. Cada clic, cada mirada, es parte de esta historia compartida.**
+
+<!-- Última edición: 20 de septiembre de 2025 -->
