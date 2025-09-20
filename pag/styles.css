@@ -1,0 +1,202 @@
+/* Tipografías */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Títulos */
+h1, h2 {
+  font-family: 'Anton', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Navbar */
+.navbar {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+
+}
+.btn-outline-light i,
+.btn-outline-dark i {
+  margin-right: 6px;
+}
+
+#habilidades ul,
+#portafolio .card {
+  margin-top: 30px;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  transition: transform 0.3s ease;
+}
+
+#habilidades h2 {
+  font-family: 'Anton', sans-serif;
+  color: #FF0050;
+}
+
+#habilidades .list-group-item {
+  background-color: #fff;
+  border-left: 5px solid #FF0050;
+}
+
+#educacion h2,
+#experiencia h2 {
+  font-family: 'Anton', sans-serif;
+  color: #FF0050;
+}
+
+#educacion .list-group-item,
+#experiencia .list-group-item {
+  background-color: #fff;
+  border-left: 5px solid #FF0050;
+}
+
+.blockquote {
+  border-left: none;
+  padding: 20px;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #666;
+}
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #FF0050;
+}
+
+/* Header */
+header {
+  background: linear-gradient(135deg, #FF0050, #000000);
+  color: white;
+  padding: 60px 20px;
+}
+.btn i {
+  margin-right: 8px;
+  font-size: 1.2rem;
+}
+#historia {
+  background-color: #f5f5f5;
+  border-left: 5px solid #FF0050;
+  padding: 60px 20px;
+}
+#historia h2 {
+  font-family: 'Anton', sans-serif;
+  color: #FF0050;
+}
+#historia p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+header h1 {
+  font-size: 3rem;
+}
+
+header .btn {
+  border-radius: 30px;
+  font-weight: bold;
+}
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card-title {
+  font-family: 'Anton', sans-serif;
+  color: #FF0050;
+}
+
+.card-text {
+  font-size: 0.95rem;
+  color: #555;
+}
+/* Secciones */
+section {
+  padding: 60px 20px;
+}
+
+.bg-light {
+  background-color: #f5f5f5 !important;
+}
+
+/* Listas */
+.list-group-item {
+  border: none;
+  padding: 15px 20px;
+  font-size: 1rem;
+}
+
+/* Footer */
+footer i {
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+}
+
+footer a {
+  display: block;
+  font-size: 0.9rem;
+  color: #FF0050;
+  text-decoration: none;
+}
+footer hr {
+  opacity: 0.2;
+  margin: 20px auto;
+  width: 60%;
+}
+footer a:hover {
+text-decoration: underline;
+}
+  
+
+footer p.small {
+  color: #f8f9fa !important; /* blanco Bootstrap */
+  font-size: 0.85rem;
+  margin-bottom: 4px;
+}
+
+footer .mt-4 {
+  margin-top: 2rem;
+}
+
+footer p.small:last-child {
+  font-style: italic;
+  opacity: 0.9;
+}
+
+@media (max-width: 576px) {
+  header h1 {
+    font-size: 2.2rem;
+  }
+
+  .btn {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+}
+@media (max-width: 576px) {
+  .card-title {
+    font-size: 1.1rem;
+  }
+
+  .card-text {
+    font-size: 0.9rem;
+  }
+
+  .list-group-item {
+    font-size: 0.95rem;
+  }
+}
