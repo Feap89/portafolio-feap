@@ -33,7 +33,7 @@ Si este portafolio te inspira o te interesa colaborar, puedes encontrarme en:
 
 - [Instagram](https://instagram.com/fabricioeap)
 - [TikTok](https://tiktok.com/@fabricioeap)
-- [LinkedIn](https://linkedin.com/in/fabricio aponte)
+- [LinkedIn](https://www.linkedin.com/in/fabricio-aponte-0b1688354/)
 
 ---
 
