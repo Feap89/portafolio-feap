@@ -16,9 +16,8 @@ Soy Fabricio, creador de contenido digital, consultor creativo en branding y dis
 
 Este portafolio no es solo una vitrina de habilidades técnicas. Es una extensión de mi historia, mi disciplina y mi sensibilidad estética. Cada sección está pensada para transmitir autenticidad y coherencia visual.
 
-## 🛠 Tecnologías utilizadas
 
-🎯 Propósito
+## 🎯 Propósito
 Este portafolio no es solo una vitrina de habilidades técnicas. Es una extensión de mi historia, mi disciplina y mi sensibilidad estética. Cada sección está pensada para transmitir autenticidad y coherencia visual.
 
 ## 🛠 Tecnologías utilizadas
@@ -33,18 +32,8 @@ Este portafolio no es solo una vitrina de habilidades técnicas. Es una extensi�
 - Añadir animaciones suaves con CSS
 - Optimizar experiencia en dispositivos móviles
 
-## 💬 Conecta conmigo
 
-Si este portafolio te inspira o te interesa colaborar, puedes encontrarme en:
-
-- [Instagram](https://instagram.com/fabricioeap)
-- [TikTok](https://tiktok.com/@fabricioeap)
-- [LinkedIn](https://www.linkedin.com/in/fabricio-aponte-0b1688354/)
-
-
-**Gracias por visitar. Cada clic, cada mirada, es parte de esta historia compartida.**
-
-🛠️ Corrección de despliegue en GitHub Pages
+## 🛠️ Corrección de despliegue en GitHub Pages
 Durante el proceso de publicación de este portafolio, enfrenté desafíos técnicos que me permitieron profundizar en el funcionamiento real de Git, GitHub Pages y la estructura de proyectos web en producción.
 
 ## 🔍 Diagnóstico inicial
@@ -63,10 +52,15 @@ Al intentar visualizar el sitio, GitHub Pages mostraba únicamente el README.md,
 El sitio se despliega correctamente desde index.html, mostrando el contenido como fue diseñado. El botón de descarga del CV funciona sin errores, y el proyecto quedó limpio, funcional y documentado.
 Este proceso fortaleció mi dominio de Git, GitHub Pages y la depuración de entornos web. Más allá del aspecto técnico, fue una oportunidad para integrar mi narrativa profesional con precisión, claridad y propósito.
 
-Si este portafolio te inspira o te interesa colaborar, puedes encontrarme en:
-- Instagram
-- TikTok
-- LinkedIn
+## 💬 Conecta conmigo
 
-Gracias por visitar. Cada clic, cada mirada, es parte de esta historia compartida.
+Si este portafolio te inspira o te interesa colaborar, puedes encontrarme en:
+
+- [Instagram](https://instagram.com/fabricioeap)
+- [TikTok](https://tiktok.com/@fabricioeap)
+- [LinkedIn](https://www.linkedin.com/in/fabricio-aponte-0b1688354/)
+
+---
+
+**Gracias por visitar. Cada clic, cada mirada, es parte de esta historia compartida.**  
 Actualizado el 30 de septiembre de 2025.
